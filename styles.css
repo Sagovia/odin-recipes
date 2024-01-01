@@ -11,12 +11,19 @@ h1 {
 ol, ul {
     color: darkslategray;
     background-color: azure;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    width: 400px;
 }
 
 img {
     width: 400px;
+    height:463px;
     height: auto;
     align-items: center;
+    margin: 0px auto;
+    display: block;
 }
 
 
